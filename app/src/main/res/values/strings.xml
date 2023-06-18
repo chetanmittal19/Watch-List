@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Watch List</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="movie_backdrop">Movie Backdrop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_no_data">No data returned from server. Please try again</string>
+    <string name="error_network">Error fetching data. Please check network.</string>
+    <string name="error_unknown">Unknown error. %1$s</string>
+</resources>
